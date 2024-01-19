@@ -41,7 +41,7 @@ Astra Linux SE
 
 Копирование файла с атрибутом ниже в папку с атрибутом выше не сработало - была получена ошибка доступа. В то же время "запись вниз" работает.
 
-Режим замкнутой программной среды (ЗПС)
+**Режим замкнутой программной среды (ЗПС)**
 
 ![image](https://github.com/V0vochka/Praktika-4/assets/70959108/4ea8619d-8384-4d01-a108-fa978f6a2242)
 
@@ -50,4 +50,25 @@ Astra Linux SE
 ![image](https://github.com/V0vochka/Praktika-4/assets/70959108/85c8debd-5f47-4591-b081-ab508890da30)
 
 ![image](https://github.com/V0vochka/Praktika-4/assets/70959108/ce9f3009-2849-49e2-bf87-e33efb7966dc)
+
+**Работа с утилитами контроля целостности и регламентного контроля целостности**
+
+1. Gostsum:
+Утилита вычисляет хэш файлов в соответствии с ГОСТ Р 34.11-2012.
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/82a9c686-f267-45d3-905e-927a6e065cf5)
+
+2. Использование afick:
+afick используется для контроля целостности файловой системы ОС.
+Инициализация:
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/3c6861a5-2e4d-49c1-abd1-bb2d0c900101)
+
+Сделаем бэкап системных файлов и изменим их
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/4680629a-dd4d-473b-94b0-c751a46ffb12)
+
+Проверим системные файлы после внеснения изменений в /sbin/blkind
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/6c1bd1a9-6ed0-4c33-885a-a9e2abe1f2da)
+
 
