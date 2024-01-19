@@ -26,3 +26,11 @@ Astra Linux SE
 Произведена настройка мандатного управления доступом
 
 ![image](https://github.com/V0vochka/Praktika-4/assets/70959108/ff192f9c-13f3-4595-835a-f9af7891e363)
+
+Для измнения конфигурации мандатного контроля целостности в Astra Linux необходимо запустить утилиту "политика безопасности"
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/62a27f1c-feb9-46ee-8d84-4e64d5a34eae)
+
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/ab1d4aae-6f47-4fbc-8b00-c819c91b1a4f)
+
