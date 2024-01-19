@@ -35,4 +35,19 @@ Astra Linux SE
 
 ![image](https://github.com/V0vochka/Praktika-4/assets/70959108/1e811549-a2f7-4708-aef0-bf762d192c46)
 
+Проверим уровни контроля
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/3fc02bd8-1635-4b8a-b654-6640a08e9fd4)
+
+Копирование файла с атрибутом ниже в папку с атрибутом выше не сработало - была получена ошибка доступа. В то же время "запись вниз" работает.
+
+Режим замкнутой программной среды (ЗПС)
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/4ea8619d-8384-4d01-a108-fa978f6a2242)
+
+В качестве тестового файла был взят установщик телеграма
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/85c8debd-5f47-4591-b081-ab508890da30)
+
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/ce9f3009-2849-49e2-bf87-e33efb7966dc)
 
