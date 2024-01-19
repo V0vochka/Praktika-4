@@ -31,6 +31,8 @@ Astra Linux SE
 
 ![image](https://github.com/V0vochka/Praktika-4/assets/70959108/62a27f1c-feb9-46ee-8d84-4e64d5a34eae)
 
+В меню "Режим эксперта" назначаем уровни целостности для директорий "Документы" и "Изображение". 
 
-![image](https://github.com/V0vochka/Praktika-4/assets/70959108/ab1d4aae-6f47-4fbc-8b00-c819c91b1a4f)
+![image](https://github.com/V0vochka/Praktika-4/assets/70959108/1e811549-a2f7-4708-aef0-bf762d192c46)
+
 
